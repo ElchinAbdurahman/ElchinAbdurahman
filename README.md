@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elchinabdurahman&label=Profile%20views&color=0e75b6&style=flat" alt="elchinabdurahman" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://stefantopalovicdev.vercel.app](https://stefantopalovicdev.vercel.app)
+- 👨‍💻 All of my projects are available at https://portfolio-elchin.netlify.app/
 
 - 💬 Ask me about **react**
 
